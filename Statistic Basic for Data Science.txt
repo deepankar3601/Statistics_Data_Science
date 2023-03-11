@@ -1,0 +1,32 @@
+Statistic Basic for Data Science
+
+What is Statistics?
+Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.
+
+Data is "Facts or pieces of information"
+
+Types of statistics
+1 Descriptive statistics
+2 inferential statistics
+
+Descriptive Statistics
+In this type of statistics, the data is summarised through the given observations. The summarisation is one from a sample of population using parameters such as the mean or standard deviation.
+Descriptive statistics is a way to organise, represent and describe a collection of data using tables, graphs, and summary measures. For example, the collection of people in a city using the internet or using Television. 
+
+measure of central tendency , measure of dispersion , different type of distribution of data are some of the topics of descriptive statistics.
+
+Inferential Statistics
+This type of statistics is used to interpret the meaning of Descriptive statistics. That means once the data has been collected, analysed and summarised then we use these stats to describe the meaning of the collected data. Or we can say, it is used to draw conclusions from the data that depends on random variations such as observational errors, sampling variation, etc.
+
+Z-test , T-test , CMI square test are some of the topics of inferential statistics.
+
+Population And Sample Data
+
+What is Population?
+In statistics, population is the entire set of items from which you draw data for a statistical study. It can be a group of individuals, a set of items, etc. It makes up the data pool for a study.
+Generally, population refers to the people who live in a particular area at a specific time. But in statistics, population refers to data on your study of interest. It can be a group of individuals, objects, events, organizations, etc. You use populations to draw conclusions.
+
+What is a Sample?
+A sample is defined as a smaller and more manageable representation of a larger group. A subset of a larger population that contains characteristics of that population. A sample is used in statistical testing when the population size is too large for all members or observations to be included in the test.
+The sample is an unbiased subset of the population that best represents the whole data.
+
